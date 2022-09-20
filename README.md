@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishikawa-screen
-- 👀 I’m interested in management
+- 👀 I’m interested in product management
 - 🌱 I’m currently learning Vue and Electron
 - 💞️ I’m looking to collaborate on Causal Analysis
 - 📫 How to reach me ...
